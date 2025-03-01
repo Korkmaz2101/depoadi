@@ -11,6 +11,7 @@ Bu proje, HTML etiketlerini kullanarak hikayeli oyunları tanıtan basit bir web
 - **Listeler (`<ul>, <ol>, <li>`)**: Önerilen oyunlar sıralı ve sırasız listeler halinde gösterilmiştir.
 - **Tablo (`<table>, <tr>, <td>, <th>`)**: Oyunların çıkış yılı, türü ve bağlantısı içeren bir tablo oluşturulmuştur.
 - **Anlamsal Etiketler (`<header>, <footer>, <section>, <article>, <nav>`)**: Sayfa düzenini iyileştirmek için kullanılmıştır.
+- **trailers.html** → Önerilen oyunların YouTube fragmanlarının bulunduğu sayfa
 
 ## 📜 Kullanılan HTML Etiketleri
 
@@ -21,13 +22,15 @@ Bu proje, HTML etiketlerini kullanarak hikayeli oyunları tanıtan basit bir web
 - `<ul>, <ol>, <li>` : Listeler
 - `<table>, <tr>, <td>, <th>` : Tablolar
 - `<header>, <footer>, <section>, <nav>` : Anlamsal HTML etiketleri
+- ` <iframe>`
 
 
 ## 📂 Dosya Yapısı
 ```
 📁 hikayeli-oyunlar-projesi
- ├── index.html  # Ana HTML dosyası
+ ├── games.html  # Ana HTML dosyası
  ├── README.md   # Proje açıklama dosyası
+ ├── trailers   # tavsiye oyunlar fragmanlarıyla birlikte
 ```
 
 ---
