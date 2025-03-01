@@ -30,10 +30,7 @@ Bu proje, HTML etiketlerini kullanarak hikayeli oyunları tanıtan basit bir web
  ├── README.md   # Proje açıklama dosyası
 ```
 
-## 📌 Örnek Ekran Görüntüsü
-![Örnek Görsel](https://via.placeholder.com/400)
-
 ---
 
-Bu proje, HTML etiketlerini öğrenmek için basit bir örnek olarak tasarlanmıştır. CSS veya JavaScript eklenmemiştir. İyi çalışmalar! 🎮
+Bu proje, HTML etiketlerini öğrenmek için basit bir örnek olarak tasarlanmıştır. CSS veya JavaScript eklenmemiştir. 🎮
 
