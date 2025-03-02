@@ -22,7 +22,7 @@ Bu proje, HTML etiketlerini kullanarak hikayeli oyunları tanıtan basit bir web
 - `<ul>, <ol>, <li>` : Listeler
 - `<table>, <tr>, <td>, <th>` : Tablolar
 - `<header>, <footer>, <section>, <nav>` : Anlamsal HTML etiketleri
-- ` <iframe>`
+- ` <iframe>`: oyun fragmanları için gömülü video eklemek için kullanlmıştır.
 
 
 ## 📂 Dosya Yapısı
